@@ -5,14 +5,14 @@
 kicktipp-betbot
 ===============
 
-A tool to palce bets on www.kicktipp.de automatically
+A tool to place bets on www.kicktipp.de automatically
 
 kicktipp-betbot is a python based command-line tool that will place bets on www.kicktipp.de for you.
 
 Motivation
 ----------
 
-I sometimes forget to place bets for the upcomming matchday. Therefore I wanted to create a 'simple' tool that places bets on the matchday right before the deadline. In conjunction with a raspberry pi server this tool should continously check whether i placed the current matchdays bets and in case i didn't it should place them automatically for me.
+I sometimes forget to place bets for the upcoming matchday. Therefore I wanted to create a 'simple' tool that places bets on the matchday right before the deadline. In conjunction with a raspberry pi server this tool should continously check whether i placed the current matchdays bets and in case i didn't it should place them automatically for me.
 
 Getting started
 ---------------
